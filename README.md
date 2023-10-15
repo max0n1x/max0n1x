@@ -6,9 +6,34 @@ My name is **Maksym Podhornyi**.
 
 👨‍💻Currently, I am intensively learning **Python** and actively seeking employment opportunities.
 
-📫 How to reach me:
+### 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-podhornyi/) 
+[![Linkedin](https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=78fe96&labelColor=151515&color=78fe96)](https://www.linkedin.com/in/maksym-podhornyi/)
+[![Gmail](https://img.shields.io/badge/GMail-MAil_me-informational?style=for-the-badge&logo=gmail&logoColor=78fe96&labelColor=151515&color=78fe96)](mailto:forjant1@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=78fe96&labelColor=151515&color=78fe96)](https://t.me/enterosgel1)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=78fe96&color=151515)
+![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=78fe96&color=151515)
+![C](https://img.shields.io/badge/C%2FC%2B%2B-informational?style=for-the-badge&logoColor=78fe96&color=151515&logo=C)
+![SQL](https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=mysql&logoColor=78fe96&color=151515)
+![Shell](https://img.shields.io/badge/Shell-informational?style=for-the-badge&logo=gnu-bash&logoColor=78fe96&color=151515)
+
+### Skills
+![VisualStudio Code](https://img.shields.io/badge/VisualStudio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=78fe96&color=151515)
+![Git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=78fe96&color=151515)
+![Github](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=78fe96&color=151515)
+![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=78fe96&color=151515)
+![Figma](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=78fe96&color=151515)
+![Selenium](https://img.shields.io/badge/Selenium-informational?style=for-the-badge&logo=selenium&logoColor=78fe96&color=151515)
+![Pytest](https://img.shields.io/badge/Pytest-informational?style=for-the-badge&logo=pytest&logoColor=78fe96&color=151515)
+![Pandas](https://img.shields.io/badge/Pandas-informational?style=for-the-badge&logo=pandas&logoColor=78fe96&color=151515)
+![Telegram_api](https://img.shields.io/badge/Telegram_api-informational?style=for-the-badge&logo=telegram&logoColor=78fe96&color=151515)
+![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=78fe96&color=151515)
+![Async](https://img.shields.io/badge/Async-informational?style=for-the-badge&color=151515)
+![Virtualization OS](https://img.shields.io/badge/Virtualization_OS-informational?style=for-the-badge&color=151515)
+![Rest_api](https://img.shields.io/badge/REST_api-informational?style=for-the-badge&color=151515)
+
 
 ### Some stats:
 
@@ -17,18 +42,3 @@ My name is **Maksym Podhornyi**.
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=max0n1x&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/max0n1x)
 
 *The **Most Used Languages** section doesn't serve as a measure of my skill level or expertise in those languages. Rather, it's a GitHub metric indicating which languages constitute the bulk of the code in my GitHub repositories.*
-
-<!--
-**max0n1x/max0n1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
