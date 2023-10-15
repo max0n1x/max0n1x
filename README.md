@@ -12,14 +12,14 @@ My name is **Maksym Podhornyi**.
 [![Gmail](https://img.shields.io/badge/GMail-MAil_me-informational?style=for-the-badge&logo=gmail&logoColor=78fe96&labelColor=151515&color=78fe96)](mailto:forjant1@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=78fe96&labelColor=151515&color=78fe96)](https://t.me/enterosgel1)
 
-### Languages
+### 💻 Languages:
 ![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=78fe96&color=151515)
 ![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=78fe96&color=151515)
 ![C](https://img.shields.io/badge/C%2FC%2B%2B-informational?style=for-the-badge&logoColor=78fe96&color=151515&logo=C)
 ![SQL](https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=mysql&logoColor=78fe96&color=151515)
 ![Shell](https://img.shields.io/badge/Shell-informational?style=for-the-badge&logo=gnu-bash&logoColor=78fe96&color=151515)
 
-### Skills
+### 🤓 Skills:
 ![VisualStudio Code](https://img.shields.io/badge/VisualStudio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=78fe96&color=151515)
 ![Git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=78fe96&color=151515)
 ![Github](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=78fe96&color=151515)
