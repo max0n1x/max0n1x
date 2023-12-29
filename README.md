@@ -15,9 +15,15 @@ My name is **Maksym Podhornyi**.
 ### 💻 Languages:
 ![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=78fe96&color=151515)
 ![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=78fe96&color=151515)
-![C](https://img.shields.io/badge/C%2FC%2B%2B-informational?style=for-the-badge&logoColor=78fe96&color=151515&logo=C)
+![C](https://img.shields.io/badge/C-informational?style=for-the-badge&logoColor=78fe96&color=151515&logo=C)
 ![SQL](https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=mysql&logoColor=78fe96&color=151515)
 ![Shell](https://img.shields.io/badge/Shell-informational?style=for-the-badge&logo=gnu-bash&logoColor=78fe96&color=151515)
+![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=78fe96&color=151515)
+![JS](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=78fe96&color=151515)
+![CSS](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=78fe96&color=151515)
+![HTML](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=78fe96&color=151515)
+![VHDL](https://img.shields.io/badge/VHDL-informational?style=for-the-badge&logo=vhdl5&logoColor=78fe96&color=151515)
+
 
 ### 🤓 Skills:
 ![VisualStudio Code](https://img.shields.io/badge/VisualStudio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=78fe96&color=151515)
@@ -33,6 +39,17 @@ My name is **Maksym Podhornyi**.
 ![Async](https://img.shields.io/badge/Async-informational?style=for-the-badge&color=151515)
 ![Virtualization OS](https://img.shields.io/badge/Virtualization_OS-informational?style=for-the-badge&color=151515)
 ![Rest_api](https://img.shields.io/badge/REST_api-informational?style=for-the-badge&color=151515)
+![Prometheus](https://img.shields.io/badge/Prometheus-informational?style=for-the-badge&logo=prometheus&logoColor=78fe96&color=151515)
+![Jenkins](https://img.shields.io/badge/Jenkins-informational?style=for-the-badge&logo=jenkins&logoColor=78fe96&color=151515)
+![Telegraf](https://img.shields.io/badge/Telegraf_monitoring-informational?style=for-the-badge&color=151515)
+![Grafana](https://img.shields.io/badge/Grafana-informational?style=for-the-badge&logo=grafana&logoColor=78fe96&color=151515)
+![NGINX](https://img.shields.io/badge/Nginx-informational?style=for-the-badge&logo=nginx&logoColor=78fe96&color=151515)
+![FastAPI](https://img.shields.io/badge/FastAPI-informational?style=for-the-badge&logo=fastapi&logoColor=78fe96&color=151515)
+![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=78fe96&color=151515)
+![CI/CD](https://img.shields.io/badge/CI/CD-informational?style=for-the-badge&logoColor=78fe96&color=151515)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-informational?style=for-the-badge&logo=cloudflare&logoColor=78fe96&color=151515)
+![OCI](https://img.shields.io/badge/OCI-informational?style=for-the-badge&logo=oracle&logoColor=78fe96&color=151515)
+
 
 
 ### Some stats:
