@@ -54,6 +54,8 @@ My name is **Maksym Podhornyi**.
 
 ### Some stats:
 
+<!---[![Code time](https://github-readme-stats.vercel.app/api/wakatime?username=max0n1x&count_private=true&hide=contribs&show_icons=true&theme=tokyonight&include_all_commits=true&disable_animations=true)](https://github.com/max0n1x)-->
+
 [![Maksym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=max0n1x&count_private=true&hide=contribs&show_icons=true&theme=tokyonight&include_all_commits=true&disable_animations=true)](https://github.com/max0n1x)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=max0n1x&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/max0n1x)
