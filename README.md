@@ -38,8 +38,10 @@ My name is **Maksym Podhornyi**.
 
 <!---[![Code time](https://github-readme-stats.vercel.app/api/wakatime?username=max0n1x&count_private=true&hide=contribs&show_icons=true&theme=tokyonight&include_all_commits=true&disable_animations=true)](https://github.com/max0n1x)-->
 
-[![Maksym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=max0n1x&count_private=true&hide=contribs&show_icons=true&theme=tokyonight&include_all_commits=true&disable_animations=true)](https://github.com/max0n1x)
+[![Maksym's GitHub Stats](./profile/stats.svg)](https://github.com/max0n1x)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=max0n1x&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/max0n1x)
+[![Most Used Languages](./profile/top-langs.svg)](https://github.com/max0n1x)
+
+[![WakaTime](./profile/wakatime.svg)](https://github.com/max0n1x)
 
 *The **Most Used Languages** section doesn't serve as a measure of my skill level or expertise in those languages. Rather, it's a GitHub metric indicating which languages constitute the bulk of the code in my GitHub repositories.*
